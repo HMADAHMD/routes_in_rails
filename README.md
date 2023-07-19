@@ -1,3 +1,3 @@
 # README
 
-Routes in Rails 
+this is the basic application going through the concepts of routes in rails
